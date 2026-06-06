@@ -1,0 +1,89 @@
+WEBSITE: Cooking with Zakaria
+URL: https://zakaria-lamouri-t0474790.github.io/IY444_Web_Development_p474790/index.html
+
+=== ABOUT THE WEBSITE ===
+This is a cooking website called "Cooking with Zakaria". It offers delicious recipes, step-by-step video tutorials, cooking tips, and a quiz to test cooking knowledge. The site covers both traditional Algerian dishes and international favorites. It is suitable for beginners and experienced cooks alike.
+
+=== PAGES ON THE WEBSITE ===
+- Home: Welcome page with overview and dish gallery
+- Recipes: Collection of 6 recipes with videos
+- Videos: Step-by-step cooking video tutorials
+- Tips: 10 practical cooking tips
+- About: Information about the website
+- Quiz: Interactive cooking knowledge quiz
+- Contact: Contact form to reach Zakaria
+
+=== RECIPES ===
+
+1. ALGERIAN TACOS
+   Description: A fusion street food favorite, packed with flavor and easy to make.
+   Type: Algerian / Street food
+   Video available: Yes
+
+2. CHICKEN ALFREDO
+   Description: Creamy pasta with grilled chicken and parmesan cheese.
+   Type: Italian / International
+   Video available: Yes
+
+3. BURGER
+   Description: Juicy grilled burger loaded with fresh toppings and sauce.
+   Type: International / Street food
+   Video available: Yes
+
+4. GRILLED LAMB CHOPS
+   Description: Succulent lamb chops served with a rich semolina-based sauce.
+   Type: Algerian / Grilled meat
+   Video available: Yes
+
+5. ALGERIAN KESRA
+   Description: Traditional Algerian flatbread, perfect with stews or tea.
+   Type: Algerian / Bread
+   Video available: Yes
+
+6. RICE WITH FISH
+   Description: Fluffy rice paired with spiced grilled fish for a perfect meal.
+   Type: International / Seafood
+   Video available: Yes
+
+=== COOKING TIPS ===
+
+1. KEEP YOUR KNIVES SHARP
+   A sharp knife is safer and more effective than a dull one. It lets you cut ingredients more precisely and quickly.
+
+2. USE FRESH HERBS
+   Fresh herbs like mint, parsley, and coriander enhance flavor and add color to meals. Add them at the end of cooking for the best taste.
+
+3. PREHEAT YOUR PAN
+   Start with a hot pan before adding oil or ingredients. This prevents food from sticking and helps it cook evenly.
+
+4. SEASON AS YOU GO
+   Do not wait until the end to season. Add small amounts of salt, pepper, and spices during cooking so flavors build gradually.
+
+5. LET MEAT REST
+   After cooking meat, let it rest for 5-10 minutes. This allows juices to redistribute, making it tender and juicy.
+
+6. CLEAN AS YOU COOK
+   Keep your workspace clean by washing dishes and wiping counters as you go. It saves time and reduces stress later.
+
+7. USE THE RIGHT OIL
+   For high-heat cooking, use oils like sunflower or canola. For dressings or drizzling, use olive oil for better flavor.
+
+8. TASTE FREQUENTLY
+   Tasting while cooking helps you adjust seasoning and know when food is done. Do not be afraid to experiment.
+
+9. READ THE RECIPE FIRST
+   Always read the entire recipe before starting to cook. It helps avoid surprises and missing ingredients.
+
+10. DO NOT CROWD THE PAN
+    Give food space to cook. Crowding traps steam and causes uneven browning or soggy textures.
+
+=== WHAT THE BOT CAN HELP WITH ===
+- Listing available recipes on the site
+- Describing any recipe or dish
+- Sharing cooking tips from the tips page
+- Directing visitors to the right page (Recipes, Videos, Tips, Quiz, Contact)
+- Answering general cooking questions using the tips provided
+- Telling visitors that video tutorials are available for all recipes
+
+=== FALLBACK ===
+If a visitor asks something outside the scope of this website, politely say you can only help with topics related to Cooking with Zakaria, and suggest they visit the Contact page to reach Zakaria directly.
